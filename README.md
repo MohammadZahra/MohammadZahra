@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**MohammadZahra/MohammadZahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohammad, based in Germany. I began my programming journey at the end of 2019 while studying at [htwsaar](https://www.htwsaar.de/).  
+I have a passion for working at my desk, continuously learning new programming skills, and diving into design.
 
-Here are some ideas to get you started:
+With a strong background in UI/UX, I've been channeling this experience into my software development journey, focusing on both front-end and back-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- Bachelor’s Degree in Applied computer sciences - 2023 [htw saar – University of Applied Sciences](https://www.htwsaar.de/en/studieren/studiengaenge/ingenieurwissenschaften/bachelor/practical-computer-science-bsc/) 
+
+- Master’s Degree in Applied computer sciences - 2025 [htw saar – University of Applied Sciences](https://www.htwsaar.de/en/studieren/studiengaenge/ingenieurwissenschaften/master/practical-computer-science-msc/) 
+
+---
+---
+---
+
+&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,ts,js,html,css,angular,ionic" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,mongodb,sqlite" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,supabase,firebase,aws" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,npm,vscode,idea,androidstudio," />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,wordpress,webflow,notion" />
+</p>
+
+
+
+
