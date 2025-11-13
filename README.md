@@ -12,7 +12,6 @@ With a strong background in UI/UX, I've been channeling this experience into my 
 
 ---
 
-&nbsp;
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,c,python,ts,js,html,css,angular,ionic" />
 </p>
