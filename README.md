@@ -11,8 +11,6 @@ With a strong background in UI/UX, I've been channeling this experience into my 
 - Master’s Degree in Applied computer sciences - 2025 [htw saar – University of Applied Sciences](https://www.htwsaar.de/en/studieren/studiengaenge/ingenieurwissenschaften/master/practical-computer-science-msc/) 
 
 ---
----
----
 
 &nbsp;
 <p align="left">
